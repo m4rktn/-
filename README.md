@@ -29,9 +29,7 @@ What about my old methods for codes ? i dont think so to back and code for crack
 -  <a href="https://facebook.com/cyb3rtn"><b>F</b>acebook</a><br>
 -  <a href="https://twitter.com/cyb3rtn"><b>T</b>witter</a><br>
 -  <a href="https://instagram.com/cyber.tn"><b>I</b>nstagram</a><br>
-
-*MSG*
-----
+<i><b>f</b>innalY</i>
 ```
 نحب نشكر روحي ونشكر البيسي ونشكر الريزو الطايح والمورال الواو .. ونشكر كافة موظفي وعاملي شركاتي الخاصة 
 ```
