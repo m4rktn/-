@@ -26,10 +26,12 @@ What about my old methods for codes ? i dont think so to back and code for crack
 **My Social Media ?**
 ----
 <b>
-<a href="https://facebook.com/cyb3rtn">Facebook</a><br>
-<a href="https://twitter.com/cyb3rtn">Twitter</a><br>
-<a href="https://instagram.com/cyber.tn">Instagram</a><br>
+  <a href="https://facebook.com/cyb3rtn">Facebook</a><br>
+  <a href="https://twitter.com/cyb3rtn">Twitter</a><br>
+  <a href="https://instagram.com/cyber.tn">Instagram</a><br>
+</b>
 *MSG*
+----
 ```
 نحب نشكر روحي ونشكر البيسي ونشكر الريزو الطايح والمورال الواو .. ونشكر كافة موظفي وعاملي شركاتي الخاصة 
 ```
