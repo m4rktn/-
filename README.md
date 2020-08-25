@@ -31,5 +31,5 @@ What about my old methods for codes ? i dont think so to back and code for crack
 -  <a href="https://instagram.com/cyber.tn"><b>I</b>nstagram</a><br>
 #
 ```
-نحب نشكر روحي ونشكر البيسي ونشكر الريزو الطايح والمورال الواو .. ونشكر كافة موظفي وعاملي شركاتي الخاصة 
+نحب نشكر روحي ونشكر البيسي ونشكر الريزو الطايح والمورال الواو .. ونشكر كافة موظفي وعاملي شركاتي الخاصة 2020 
 ```
