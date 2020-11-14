@@ -27,7 +27,6 @@ JoB={
 * ʍ4ʀӄɢƈ (AllinOne Cracker -First tool using Python and worked for all Crossplatforms -2019)-
 
 > ⚠️ Soon ⚠️
-----
 * contact me to see 
 
 **🏁 Ｍｙ ＳｏｃｉａｌＭｅｄｉａ 🏁**
