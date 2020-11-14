@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/github/followers/m4rktn?style=plastic)](https://github.com/m4rktn)
 [![Twitter](https://img.shields.io/twitter/follow/cyb3rtn?style=plastic&label=Follow)](https://twitter.com/cyb3rtn)
-[![Insta](https://www.iconsdb.com/icons/download/gray/instagram-16.ico)](https://instagram.com)<br>
+[![Insta](https://www.iconsdb.com/icons/download/gray/instagram-16.ico)](https://instagram.com/cyber.tn)<br>
 
 **🏁 Ｗｈｏａｍｉ 🏁**
 ----
