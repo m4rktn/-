@@ -1,8 +1,8 @@
 # ⚛️ ℍ𝕖𝕝𝕝𝕠 𝕎𝕒𝕝𝕜𝕖𝕣𝕤 ⚛️
 
-[![Gitviews](https://komarev.com/ghpvc/?username=m4rktn&style=plastic)
-[![Github](https://img.shields.io/github/followers/m4rktn?style=plastic)](https://github.com/m4rktn)
-[![Twitter](https://img.shields.io/twitter/follow/cyb3rtn?style=plastic&label=Follow)](https://twitter.com/cyb3rtn)
+[![Views](https://komarev.com/ghpvc/?username=m4rktn&style=flat)
+[![Github](https://img.shields.io/github/followers/m4rktn?style=flat)](https://github.com/m4rktn)
+[![Twitter](https://img.shields.io/twitter/follow/cyb3rtn?style=flat&label=Follow)](https://twitter.com/cyb3rtn)
 [![Insta](https://www.iconsdb.com/icons/download/gray/instagram-16.ico)](https://instagram.com/cyber.tn)<br>
 
 **🏁 Ｗｈｏａｍｉ 🏁**
