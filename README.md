@@ -21,13 +21,11 @@ JoB={
 ```
 **🏁 Ｐｒｏｊｅｃｔｓ 🏁**
 ----
-> <a href="https://github.com/m4rktn/m4crack"><b>⚡️ Cr4cker's Collection ⚡️</a>
-
-* ZҽɾσEყҽ (Key generator 09/01/2018) UPDATE NOV2020
-* ʍ4ʀӄɢƈ (AllinOne Cracker -First tool using Python and worked for all Crossplatforms -2019)-
+* <a href="https://github.com/m4rktn/zeroeye">⚡️ ZҽɾσEყҽ ⚡️</a> (Key generator 09/01/2018) UPDATE NOV2020
+* ⚡️ ʍ4ʀӄɢƈ ⚡️ (AllinOne Cracker -First tool using Python and worked for all Crossplatforms -2019)-
 
 > ⚠️ Soon ⚠️
-* contact me to see 
+* <a href="https://linktr.ee/m4rktn">contact</a> me to see 
 
 **🏁 Ｍｙ ＳｏｃｉａｌＭｅｄｉａ 🏁**
 ----
